@@ -350,7 +350,8 @@ background: linear-gradient(to right, #0E1625FC, #101D46);
             #images{
                 height: 150px;
                 width: 150px;
-                margin: 2px;
+                margin-left: -1px;
+            
             }
             #lorem{
                 border-radius: 10px;
