@@ -266,8 +266,10 @@ border-radius: 0 100px 0 0 ;
             border-radius: 50px;
             font-size: 10px;
         }
-        #section1{
-            height: 350px;
+        #section1{height: fit-content;
+background: linear-gradient(to right, #0E1625FC, #101D46);
+
+
         }
         #section2 h1{
             font-size: 20px;
